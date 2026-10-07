@@ -1,0 +1,16 @@
+FlowSpace README kit
+
+1. Open your GitHub repository.
+2. Replace its current README.md with the README.md in this kit.
+3. Upload the assets folder in this kit to the repository root.
+   The animated image must be at assets/flowspace-banner.gif.
+4. Keep your existing EMAIL_SETUP.md in the repository root so its link works.
+5. Commit with: Polish README with animated FlowSpace banner
+
+This kit changes repository presentation only. It does not replace your application files.
+The banner GIF is self-contained; no external animation service is required.
+flowspace-banner.png is an optional static alternative: change the README image path
+from assets/flowspace-banner.gif to assets/flowspace-banner.png if you prefer less motion.
+
+After deployment, add your actual live demo URL beneath the introductory paragraph.
+No GitHub username or live URL was guessed in this README.
